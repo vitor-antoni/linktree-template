@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <link href="style.css" rel="stylesheet">
+        <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0'>
+        <link rel="shortcut icon" href="images/favicon.png" type="image/webp">
+        <link rel="apple-touch-icon" sizes="180x180" href="images/favicon.png">
+        <link rel="icon" href="images/favicon.png" type="image/webp">
+        <title>Linktree template</title>
+        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <!-- Snowfall Background Animation -->
+        <section class="animated-background">
+            <div id="stars1"></div>
+            <div id="stars2"></div>
+            <div id="stars3"></div>
+        </section>
+        <!-- End of snowfall Background Animation -->
+
+        <div class="min-h-full flex-h-center" id="background_div">
+            <input type="hidden" value="https://bio.link" id="app-url">
+                <input type="hidden" value="null" id="is-featured">
+                    <canvas id="bg-canvas" class="background-overlay"></canvas>
+                </input>
+            </input>
+
+            <div class="mt-48 page-full-wrap relative ">
+                <input type="hidden" value="creator-page" id="page-type">
+                <img class="display-image m-auto" data-src="images/logo.png" src="images/logo.png" alt="[Your photo alt]"/>
+                <h2 class="page-title page-text-color page-text-font mt-16 text-center">Your name</h2>
+                       
+                <div class="mt-24">
+                    <div class="page-item-wrap relative">
+                        <div class="page-item flex-both-center absolute"></div>
+                        <a target="_blank"  class="page-item-each py-10 flex-both-center" href="https://github.com/[your-user]" data-id="261685" data-type="page_item">
+                            <img class="link-each-image" data-src="images/github.png" src="images/github.png" alt="GitHub @ [Your-GitHub-User]"/>
+                            <span class=" item-title text-center">GitHub @ [Your-GitHub-User]</span>
+                        </a>
+                    </div>
+                    <div class="page-item-wrap relative">
+                        <div class="page-item flex-both-center absolute"></div>
+                        <a target="_blank"  class="page-item-each py-10 flex-both-center" href="https://www.linkedin.com/in/[your-user]" data-id="261652" data-type="page_item">
+                            <img class="link-each-image" data-src="images/linkedin.png" src="images/linkedin.png" alt="LinkedIn @ [Your-LinkedIn-User]"/>
+                            <span class=" item-title text-center">LinkedIn @ [Your-LinkedIn-User]</span>
+                        </a>
+                    </div>
+                    <div class="page-item-wrap relative">
+                        <div class="page-item flex-both-center absolute"></div>
+                        <a target="_blank"  class="page-item-each py-10 flex-both-center" href="https://www.credly.com/users/[your-user]/badges" data-id="261685" data-type="page_item">
+                            <img class="link-each-image" data-src="images/credly.png" src="images/credly.png" alt="Credly @ [Your-Credly-User]"/>
+                            <span class=" item-title text-center">Credly @ [Your-Credly-User]</span>
+                        </a>
+                    </div>
+                </div>                                                                                
+            </div>
+        </div>
+    </body>
+
+    <!--
+        Uncomment this line of code bellow if you want a different snowfall in background
+        # Remeber to remove this text and above after you uncomment the line of code
+        <script  src="snowfall.js"></script>
+    -->
+</html>
