@@ -6,6 +6,10 @@ In this repository, I would like to make available a website template for people
 
 If necessary, feel free for ask or suggest me about anything. Intend to monitor this repository every day.
 
+## 🎯 Website demo
+![Website Demo](https://github.com/vitor-antoni/linktree-template/blob/main/assets/gif-readme/gif-readme.gif)
+
+
 ## 💻 Somethings you can do
 The `index.html` can imports two differents snowfall effects, but you must choose between one of these. 
 > Don't use both at the same time, it might seem a little strange.
