@@ -33,7 +33,7 @@ Uncomment this code and press `ctrl+s` for see the updates in your website.
 ## 📑 Additional Information
 This project was developed to contribute to the *open source* movement. Therefore, it doesn't have any complex code here.
 
-[©️ johnggli](https://github.com/johnggli/linktree)
+[©️ johnggli](https://github.com/johnggli/linktree) <br>
 [©️ SamirPaul1](https://github.com/SamirPaul1/links)
 
 In case you are interested to follow or conected with me on LinkedIn, you can do it in this link: [LinkedIn](linkedin.com/in/vitor-silva-de-antoni/)
