@@ -23,7 +23,8 @@ If you want to keep default effect, don't change the lines where are this code:
 
 But, if you want, comment this code above. After commenting the code above, go to the end of `index.html`, you may see a code code like that: 
 ```
-<!-- A different snowfall 
+<!-- 
+A different snowfall 
 <script  src="snowfall.js"></script> 
 -->
 ```
