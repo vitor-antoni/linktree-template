@@ -37,6 +37,8 @@ Uncomment this code and press `ctrl+s` for see the updates in your website.
 ## 📑 Additional Information
 This project was developed to contribute to the *open source* movement. Therefore, it doesn't have any complex code here.
 
+I liked this project so much that I used it to develop a website for myself. You can see it [clicking here](https://links.vitor-antoni.com.br).
+
 Furthermore, I must to give the credit to these people, that I got some pieces of code from their own projects to develop this.
 
 [©️ johnggli](https://github.com/johnggli/linktree) <br>
